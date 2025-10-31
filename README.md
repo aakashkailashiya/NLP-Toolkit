@@ -1,4 +1,12 @@
 # NLP-Toolkit
+<div align="center">
+<img 
+  src="https://github.com/user-attachments/assets/b7b0cccd-d83d-4d96-ba83-fd4c4e5deef2" 
+  alt="NLP Toolkit" 
+  width="1024" 
+  height="1024" 
+/>
+</div>
 
 A small collection of Natural Language Processing utilities and example pipelines. This repository contains tools, scripts, and example notebooks for common NLP tasks such as tokenization, text classification, named entity recognition (NER), embedding generation, and simple data processing utilities.
 
